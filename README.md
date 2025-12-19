@@ -31,6 +31,7 @@ Collections API (HashMap, ArrayList)
 
 Katmanlı Mimari
 
+
 👤 Kullanıcı Rolleri
 🔑 Yönetici
 
@@ -50,6 +51,7 @@ Arama ve filtreleme
 
 ❌ Veri üzerinde değişiklik yapamaz
 
+
 🕒 Vardiya Sistemi
 
 Uygulama 3 vardiya üzerinden çalışmaktadır:
@@ -61,6 +63,7 @@ Vardiya 2
 Vardiya 3
 
 Her vardiya için ayrı bir ilaç stok listesi tutulur.
+
 
 🔍 Özellikler
 
@@ -88,6 +91,7 @@ Vitamin
 
 🚪 Güvenli çıkış (Logout)
 
+
 🧩 Proje Yapısı
 ├── Main.java
 ├── LoginScreen.java
@@ -95,6 +99,7 @@ Vitamin
 ├── DataStorage.java
 ├── Medicine.java
 └── User.java
+
 
 
 📁 Sınıfların Görevleri
@@ -110,6 +115,8 @@ DataStorage: Vardiya bazlı stok verilerinin tutulması
 Medicine: İlaç modeli (ad, miktar, tip)
 
 User: Kullanıcı bilgileri ve rol yönetimi
+
+
 
 ▶️ Çalıştırma
 
