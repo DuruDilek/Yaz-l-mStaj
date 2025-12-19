@@ -115,7 +115,7 @@ User: Kullanıcı bilgileri ve rol yönetimi
 
 Projeyi klonlayın:
 
-git clone https://github.com/kullaniciadi/proje-adi.git
+git clone https://github.com/DuruDilek/Yaz-l-mStaj.git
 
 
 Java IDE (IntelliJ IDEA / Eclipse) ile açın
